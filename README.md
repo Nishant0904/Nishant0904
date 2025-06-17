@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/4kW0vIw](bit.ly/4kW0vIw)
+- 👨‍💻 All of my projects are available at [https://bit.ly/4kW0vIw](https://bit.ly/4kW0vIw)
 
 - 📫 How to reach me **nishantgarg0904@gmail.com**
 
