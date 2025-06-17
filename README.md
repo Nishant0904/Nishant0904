@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/4kW0vIw](https://bit.ly/4kW0vIw)
+- 👨‍💻 All of my projects are available at [Portfolio](https://bit.ly/4kW0vIw)
 
 - 📫 How to reach me **nishantgarg0904@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/45ZobqV](https://bit.ly/45ZobqV)
+- 📄 Know about my experiences [Resume](https://bit.ly/45ZobqV)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
